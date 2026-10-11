@@ -1,2 +1,2 @@
-# Code-Projects
-Code Project Description
+# Case-Study
+Case Study Project
